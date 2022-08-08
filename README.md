@@ -20,6 +20,7 @@ I am learning web development languages like *HTML, CSS, JS* and started creatin
 
 ## SOCIAL MEDIA LINKS:
 - [Website 🌐](https://www.switch2knowledge.com)
+- [Portfolio 📘](https://arulprakassam.github.io)
 - [Website Twitter handle 🐦](https://twitter.com/Switch2Know)
 - [YouTube channel ▶](https://youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw)
 - [Google News 🗞](https://news.google.com/s/CBIw8daTmFs?sceid=IN:en&sceid=IN:en&r=11&oc=1)
