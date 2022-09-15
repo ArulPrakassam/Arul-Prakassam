@@ -2,7 +2,7 @@
 
 My name is Arul Prakassam.
 
-I am studying ECE 3rd year in Pondicherry, India.  I started a website [(switch2knowledge.com)](https://www.switch2knowledge.com) and [YouTube channel](https://youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw) and in my website I will articles related to SEO, google ranking, blogger and other tech related things.  I also publish YouTube videos related to my website in my YouTube channel.
+I am studying ECE 4th year in Pondicherry, India.  I started a website [(switch2knowledge.com)](https://www.switch2knowledge.com) and [YouTube channel](https://youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw) and in my website I will articles related to SEO, google ranking, blogger and other tech related things.  I also publish YouTube videos related to my website in my YouTube channel.
 
 I am learning web development languages like *HTML, CSS, JS* and started creating some little websites.
 
