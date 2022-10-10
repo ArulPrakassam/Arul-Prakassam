@@ -16,6 +16,7 @@ I am learning web development languages like *HTML, CSS, JS* and started creatin
 - CSS3
 - Javascript
 - Python
+- Java
 - C
 
 ## SOCIAL MEDIA LINKS:
