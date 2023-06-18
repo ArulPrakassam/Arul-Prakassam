@@ -33,3 +33,4 @@ I will create web projects in my free time and improving my skills by working on
 - [LinkedIn Profile 🔗](https://www.linkedin.com/in/arul-prakassam)
 - [Personal Twitter handle 🦜](https://twitter.com/ArulPrakassam)
 - [Quora 💡](https://www.quora.com/profile/Arul-Prakassam-G)
+- [Facebook 🙂](https://www.facebook.com/ArulPrakassam)
