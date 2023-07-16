@@ -7,20 +7,20 @@ I am studying ECE in Pondicherry, India.  I am running a website [(switch2knowle
 I will create web projects in my free time and improving my skills by working on those projects.
 
 ## SKILLS:
+- Javascript
+- React.js
+- HTML5
+- CSS3
 - Content Creation
 - Web content writing
 - SEO
-- HTML5
-- CSS3
-- Javascript
-- React.js
 - Next.js
+- Java
 - Blogger
 - YouTube
 - SQL
 - MySQL
 - Python
-- Java
 - C
 
 ## SOCIAL MEDIA LINKS:
