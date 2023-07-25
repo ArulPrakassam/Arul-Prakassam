@@ -2,9 +2,8 @@
 
 My name is Arul Prakassam.
 
-I am studying ECE in Pondicherry, India.  I am running a website [(switch2knowledge.com)](https://www.switch2knowledge.com) and [YouTube channel](https://youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw) and in my website I will articles related to SEO, google ranking, blogger and other tech related things.  I also publish YouTube videos related to my website in my YouTube channel.
+Interested in front-end web development and content creation.  Done some projects in UI development with React js, Javascript, HTML, CSS.  I am running a website [(switch2knowledge.com)](https://www.switch2knowledge.com) and [YouTube channel](https://youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw) and in my website I will articles related to SEO, google ranking, blogger and other tech related things.  I also publish YouTube videos related to my website in my YouTube channel.
 
-I will create web projects in my free time and improving my skills by working on those projects.
 
 ## SKILLS:
 - Javascript
