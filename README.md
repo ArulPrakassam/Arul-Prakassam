@@ -38,10 +38,20 @@
   <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121410/Github%20Readme/mongodb%20icon.svg" height="40" alt="mongodb logo"  />
 </div>
 <br/>
+<p align="left">Content Creation</p>
+
+<div align="left">
+  <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1698482238/Github%20Readme/content-writing.png" height="40" alt="content writing"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121966/Github%20Readme/youtube-logo.svg" height="40" alt="youtube logo"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1698482138/Github%20Readme/SEO.png" height="40" alt="SEO"  />
+</div>
+<br/>
 <p align="left">Other skills</p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121759/Github%20Readme/python-logo.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121868/Github%20Readme/java-logo.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -55,17 +65,17 @@
 <h2 align="left">Follow me</h2>
 
 <div align="left">
-  <a href="https://www.switch2knowledge.com/" target="_blank">
-    <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121949/Github%20Readme/website-logo.png" width="46" height="40" alt="website logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw" target="_blank">
-    <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121966/Github%20Readme/youtube-logo.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/arul-prakassam" target="_blank">
     <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697122000/Github%20Readme/linkedin-logo.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ArulPrakassam" target="_blank">
     <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697122020/Github%20Readme/twitter-logo.jpg" width="50" height="40" alt="twitter logo"  />
+  </a>
+   <a href="https://www.switch2knowledge.com/" target="_blank">
+    <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121949/Github%20Readme/website-logo.png" width="46" height="40" alt="website logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw" target="_blank">
+    <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121966/Github%20Readme/youtube-logo.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.quora.com/Arul-Prakassam-G" target="_blank">
     <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697122040/Github%20Readme/quora-logo.png" width="46" height="40" alt="quora logo"  />
