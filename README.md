@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-<p align="left">My name is Arul Prakassam, I am a Front-end web Developer with some Back-end knowledge & Content Creator</p>
+<p align="left">My name is Arul Prakassam. I am a Front-end web Developer with some Back-end knowledge & Content Creator</p>
 
-<h2 align="left">About me</h2>
+## About me
 
 - Completed my B.Tech degree in ECE in Manakula Vinayagar Institute of Technology, Pondicherry in 2023.
 - Done some projects in UI development with React js, Javascript, HTML, CSS.
@@ -12,7 +12,7 @@
 
 **Here is a link to visit my [portfolio](https://arulprakassam.github.io/)**
 
-<h2 align="left">My Skill Set</h2>
+## My Skill Set
 
 <p align="left" font-size="30px">Frontend Development</p>
 
@@ -58,11 +58,20 @@
   <img src="https://res.cloudinary.com/dhxjitf9n/image/upload/v1697121907/Github%20Readme/mysql-logo.svg" height="40" alt="mysql logo"  />
 </div>
 
+## Some of my projects
+
+- [X clone (Twitter)](https://x-clone-twitter.netlify.app/)
+- [Hungrezy](https://hungrezy-app.netlify.app/)
+- [Gallery Search App](https://imagegallery-search-app.netlify.app/)
+- [Bookmyshow Clone](https://bookmyshow-clone-project.netlify.app/)
+
+Visit more projects in my **[portfolio](https://arulprakassam.github.io/projects)**
 
 ## GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArulPrakassam&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Follow me</h2>
+## Follow me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arul-prakassam" target="_blank">
