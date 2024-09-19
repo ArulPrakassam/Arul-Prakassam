@@ -1,10 +1,11 @@
 # Hey 👋 What's up?
 
-My name is Arul Prakassam, front-end web Developer with some back-end knowledge & content creator
+My name is Arul Prakassam, working as a Test Specialist at IBM.  Passionate about front-end web development & content creation
 
 ## About me
 
 - Completed my B.Tech ECE in Manakula Vinayagar Institute of Technology, Pondicherry in 2023.
+- Currently working as a Test Specialist at IBM.
 - Done some projects in UI development with React js, Javascript, HTML, CSS.
 - I am interested in front-end web development.
 - I will create online content in my website [switch2knowledge](https://www.switch2knowledge.com/) and youtube channels.
@@ -24,15 +25,20 @@ My name is Arul Prakassam, front-end web Developer with some back-end knowledge 
 
 ![](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb)
 
+### Automation Testing
+
+![](https://skillicons.dev/icons?i=selenium,java)
+
 ### Content Creation
 
 ![](https://res.cloudinary.com/dhxjitf9n/image/upload/v1702472001/Github%20Readme/content-creation.png)
 ![](https://res.cloudinary.com/dhxjitf9n/image/upload/v1702471042/Github%20Readme/youtube-logo.png)
 ![](https://res.cloudinary.com/dhxjitf9n/image/upload/v1702471876/Github%20Readme/seo.png)
 
+
 ### Other skills
 
-![](https://skillicons.dev/icons?i=java,python,mysql)
+![](https://skillicons.dev/icons?i=python,mysql)
 
 ## Some of my projects
 
