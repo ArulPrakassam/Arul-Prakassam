@@ -1,14 +1,13 @@
 # Hey 👋 What's up?
 
-My name is Arul Prakassam, working as a Test Specialist at IBM.  Passionate about front-end web development & content creation
+My name is Arul Prakassam, working as a Test Specialist at IBM.  I am passionate about front-end web development and also enjoy creating online content for my website and youtube channel.
 
 ## About me
 
 - Completed my B.Tech ECE in Manakula Vinayagar Institute of Technology, Pondicherry in 2023.
 - Currently working as a Test Specialist at IBM.
 - Done some projects in UI development with React js, Javascript, HTML, CSS.
-- I am interested in front-end web development.
-- I will create online content in my website [switch2knowledge](https://www.switch2knowledge.com/) and youtube channels.
+- I will create online content for my website [switch2knowledge](https://www.switch2knowledge.com/) and youtube channels
   - [Switch2Knowledge channel](https://www.youtube.com/channel/UCzz1ofQIE6VJm73BSOkgxUw)
   - [Arul Prakassam channel](https://www.youtube.com/channel/UCYLm49M6mF3bMFa0o9gfwSQ)
 - Learning new things regularly and willing to discover new things.
@@ -25,9 +24,13 @@ My name is Arul Prakassam, working as a Test Specialist at IBM.  Passionate abou
 
 ![](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb)
 
-### Automation Testing
+### Software Testing
 
 ![](https://skillicons.dev/icons?i=selenium,java)
+
+### Programming Languages
+
+![](https://skillicons.dev/icons?i=js,java,python)
 
 ### Content Creation
 
@@ -35,10 +38,9 @@ My name is Arul Prakassam, working as a Test Specialist at IBM.  Passionate abou
 ![](https://res.cloudinary.com/dhxjitf9n/image/upload/v1702471042/Github%20Readme/youtube-logo.png)
 ![](https://res.cloudinary.com/dhxjitf9n/image/upload/v1702471876/Github%20Readme/seo.png)
 
-
 ### Other skills
 
-![](https://skillicons.dev/icons?i=python,mysql)
+![](https://skillicons.dev/icons?i=mysql)
 
 ## Some of my projects
 
